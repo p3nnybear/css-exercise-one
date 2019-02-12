@@ -2,6 +2,10 @@ body {
   font-size: 14px;
 }
 
+.blue {
+  background-color: blue;
+}
+
 nav {
   background-color: rgb(230, 228, 120);
   height: 100px;
